@@ -1,0 +1,43 @@
+{
+  "name": "ok",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "co": "*",
+    "co-body": "*",
+    "co-busboy": "^1.3.1",
+    "co-redis": "*",
+    "co-request": "1.0.0",
+    "colors": "*",
+    "formidable": "^1.0.17",
+    "koa": "2.0.0",
+    "koa-body": "*",
+    "koa-convert": "*",
+    "koa-cors": "0.0.16",
+    "koa-logger": "*",
+    "koa-path-match": "2.0.0",
+    "koa-static": "2.0",
+    "log4js": "1.0",
+    "mysql-co": "*",
+    "node-schedule": "*",
+    "redis": "*",
+    "mssql": "*",
+    "request": "^2.79.0",
+    "shortid": "^2.2.6",
+    "socket.io": "^1.4.8",
+    "thunkify": "*",
+    "xml2js": "*",
+    "@alicloud/sms-sdk": "*"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/zuoxima/GameServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

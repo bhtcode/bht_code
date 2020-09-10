@@ -1,0 +1,9 @@
+{
+  "httpPort":  8009,
+  "httpDefaultMethod": "POST",
+  "serverPath": "",
+  "dburl": "localhost:8008",
+  "logPath": "./logs/",
+  "recordPath": "records",
+  "ticketTime": 6000
+}
